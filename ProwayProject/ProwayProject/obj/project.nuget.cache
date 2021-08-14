@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ume/MnmgRSuPWVi4gK8c7MDjjGjqQnqm32hXJQI3SQBpkJRvSmZq3Xmu2W+RHxItrJCOt9bzOZjE9HXjer1GOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\ProwayProject\\ProwayProject\\ProwayProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

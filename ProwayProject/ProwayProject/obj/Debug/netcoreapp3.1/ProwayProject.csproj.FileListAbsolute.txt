@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\bin\Debug\netcoreapp3.1\ProwayProject.exe
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\bin\Debug\netcoreapp3.1\ProwayProject.deps.json
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\bin\Debug\netcoreapp3.1\ProwayProject.runtimeconfig.json
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\bin\Debug\netcoreapp3.1\ProwayProject.runtimeconfig.dev.json
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\bin\Debug\netcoreapp3.1\ProwayProject.dll
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\bin\Debug\netcoreapp3.1\ProwayProject.pdb
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\obj\Debug\netcoreapp3.1\ProwayProject.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\obj\Debug\netcoreapp3.1\ProwayProject.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\obj\Debug\netcoreapp3.1\ProwayProject.AssemblyInfo.cs
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\obj\Debug\netcoreapp3.1\ProwayProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\obj\Debug\netcoreapp3.1\ProwayProject.dll
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\obj\Debug\netcoreapp3.1\ProwayProject.pdb
+C:\Users\admin\Desktop\ProwayProject\ProwayProject\obj\Debug\netcoreapp3.1\ProwayProject.genruntimeconfig.cache
